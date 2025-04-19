@@ -1,4 +1,9 @@
 # 📋 Stag Weekend at a glance
+## Key links
+📍 [Bristol accommodation](https://maps.app.goo.gl/dnkU9j5g6sVaJLWi6)
+💷 [Splitwise](https://www.splitwise.com/join/QhedvjV7TKE+1bclf4?v=e)
+
+## Summary
 
 | 🗓️ Day       | 🕰️ Time            | 🧭 Activity Highlights                                                                 |
 |--------------|--------------------|----------------------------------------------------------------------------------------|
@@ -34,7 +39,7 @@
 - Owen Laing
 - Jamie Clarke
 
-> If your name is **not** on the list, an you think you should be, reach out to Jacob.
+> If your name is **not** on the list, and you think you should be, reach out to Jacob.
 
 ### Pub Crawl – Bermondsey Beer Mile
 **🥪 Lunch:** ~12:00 – Lunch at Maltby Street Market  
@@ -50,9 +55,6 @@ Lanyards with crawl details and challenges will be distributed on arrival.
 ---
 
 ### Travel to Bristol
-**🚅 Train:** [19:00–20:37 to Bristol Temple Meads](https://www.nationalrail.co.uk/journey-planner/?type=single&origin=PAD&destination=BRI&leavingType=departing&leavingDate=030525&leavingHour=19&leavingMin=00&adults=1&extraTime=0#O)  
-📍 [London Paddington](https://maps.app.goo.gl/EK95NmvDNfYJB3a18)  
-
 
 **🕺 Ravers:**
 - Jacob Polden
@@ -63,6 +65,13 @@ Lanyards with crawl details and challenges will be distributed on arrival.
 - Tom Garartt
 - Andy Lyonette
 - Jamie Clarke
+
+**🚅 Train:** [19:00–20:37 to Bristol Temple Meads](https://www.nationalrail.co.uk/journey-planner/?type=single&origin=PAD&destination=BRI&leavingType=departing&leavingDate=030525&leavingHour=19&leavingMin=00&adults=1&extraTime=0#O)  
+📍 [London Paddington](https://maps.app.goo.gl/EK95NmvDNfYJB3a18)  
+
+#### Check into accommodation  
+📍 [Apartments](https://maps.app.goo.gl/dnkU9j5g6sVaJLWi6)
+
 
 ### 20 Years of Serial Killaz - Jungle & DnB Night
 **🕙 Time:** 22:00–03:00  
