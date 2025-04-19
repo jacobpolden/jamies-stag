@@ -34,7 +34,6 @@
 - Owen Laing
 - Jamie Clarke
 
-> [!TIP]
 > If your name is **not** on the list, an you think you should be, reach out to Jacob.
 
 ### Pub Crawl – Bermondsey Beer Mile
