@@ -1,7 +1,8 @@
 # 📋 Stag Weekend at a glance
 ## Key links
 📍 [Bristol accommodation](https://maps.app.goo.gl/dnkU9j5g6sVaJLWi6)  
-💷 [Splitwise](https://www.splitwise.com/join/QhedvjV7TKE+1bclf4?v=e)
+💷 [Splitwise](https://www.splitwise.com/join/QhedvjV7TKE+1bclf4?v=e)  
+🗺️ [Location list (including some recommended Bristol pubs)](https://maps.app.goo.gl/8EJrVAFpxU7vjZXX9)
 
 ## Summary
 
