@@ -8,7 +8,7 @@
 | 🗓️ Day       | 🕰️ Time            | 🧭 Activity Highlights                                                                 |
 |--------------|--------------------|----------------------------------------------------------------------------------------|
 | **Saturday** | 09:30 – 11:00      | 🏎️ Mini Grand Prix @ Mile End                                                         |
-|              | ~12:00 – ~18:00    | 🍻 Pub Crawl – Bermondsey Beer Mile & Maltby Street Market                            |
+|              | ~12:00 – ~18:00    | 🍻 Pub Crawl – Bermondsey Beer Mile starting at Maltby Street Market                            |
 |              | 19:00 – 20:37      | 🚅 Train to Bristol (Paddington → Temple Meads)                                        |
 |              | 22:00 – 03:00      | 🎧 20 Years of Serial Killaz – Jungle & DnB Night @ Clock Factory                      |
 | **Sunday**   | ~12:00             | 🍳 Brunch @ The Crafty Egg (walk-in only)                                              |
