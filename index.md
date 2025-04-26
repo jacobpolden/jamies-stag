@@ -25,20 +25,20 @@
 📍 [Revolution Karting, Mile End, London](https://maps.app.goo.gl/pYpFeCEStzoNvMiGA)
 
 **Drivers:**
-- Jacob Polden
-- Luke Marshall
-- Dave Owen
-- George Barnett
-- Jason Reed
-- Michal Devine
-- Rares Ferdean
-- Robin Hatch
-- Will Saunders
-- Stephen Muldoon
-- Tom Garartt
-- Andy Lyonette
-- Owen Laing
-- Jamie Clarke
+1. Jacob Polden
+2. Luke Marshall
+3. Dave Owen
+4. George Barnett
+5. Jason Reed
+6. Michal Devine
+7. Rares Ferdean
+8. Robin Hatch
+9. Will Saunders
+10. Stephen Muldoon
+11. Tom Garartt
+12. Andy Lyonette
+13. Owen Laing
+14. Jamie Clarke
 
 > If your name is **not** on the list, and you think you should be, reach out to Jacob.
 
@@ -58,14 +58,14 @@ Lanyards with crawl details and challenges will be distributed on arrival.
 ### Travel to Bristol
 
 **🕺 Ravers:**
-- Jacob Polden
-- Rob Butcher
-- George Barnett
-- Will Saunders
-- Stephen Muldoon
-- Tom Garartt
-- Andy Lyonette
-- Jamie Clarke
+1. Jacob Polden
+2. Rob Butcher
+3. George Barnett
+4. Will Saunders
+5. Stephen Muldoon
+6. Tom Garartt
+7. Andy Lyonette
+8. Jamie Clarke
 
 **🚅 Train:** [19:00–20:37 to Bristol Temple Meads](https://www.nationalrail.co.uk/journey-planner/?type=single&origin=PAD&destination=BRI&leavingType=departing&leavingDate=030525&leavingHour=19&leavingMin=00&adults=1&extraTime=0#O)  
 📍 [London Paddington](https://maps.app.goo.gl/EK95NmvDNfYJB3a18)  
